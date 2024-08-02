@@ -39,7 +39,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* *Prashant Verma* - Initial work - [Your GitHub Profile]()
+* *Prashant Verma* -(https://github.com/pverma94/DATA_1202_ASSIGNMENT_5_100967364.git)
 
 ## License
 
