@@ -1,4 +1,4 @@
-# Data 1202: Data Analytics Tools - Lab 6
+# Data 1202: Data Analytics Tools
 
 This project contains the code for Lab 6 of the Data 1202 course, focusing on subsetting data using iloc and creating functions in Python.
 
