@@ -22,7 +22,7 @@ The notebook does not include specific tests but demonstrates the following:
 
 To run the notebook:
 1. Open Jupyter Notebook:
-2. Navigate to the project directory and open Lab6_week8.ipynb.
+2. Navigate to the project directory and open DATA_1202_PY_FILE_PRASHANT_VERMA_100967364.ipynb.
 
 ## Built With
 
